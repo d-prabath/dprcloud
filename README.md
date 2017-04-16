@@ -1,1 +1,1 @@
-# My spring configuration repository.
+# My spring cloud configuration repository.
